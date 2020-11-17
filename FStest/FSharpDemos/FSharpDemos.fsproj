@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Records.fs" />
     <Compile Include="DiscriminatedUnions.fs" />
     <Compile Include="PatternMatching.fs" />
     <Compile Include="Functions.fs" />
