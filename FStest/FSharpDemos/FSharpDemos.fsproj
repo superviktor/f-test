@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Sequences.fs" />
+    <Compile Include="LazyEvaluation.fs" />
     <Compile Include="Records.fs" />
     <Compile Include="DiscriminatedUnions.fs" />
     <Compile Include="PatternMatching.fs" />
