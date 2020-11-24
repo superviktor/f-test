@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Arrays.fs" />
     <Compile Include="UnitsOfMeasure.fs" />
     <Compile Include="Queries.fs" />
     <Compile Include="Sequences.fs" />
