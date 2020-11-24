@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Exceptions.fs" />
+    <Compile Include="ForLoopWithPatternMathing.fs" />
     <Compile Include="Arrays.fs" />
     <Compile Include="UnitsOfMeasure.fs" />
     <Compile Include="Queries.fs" />
