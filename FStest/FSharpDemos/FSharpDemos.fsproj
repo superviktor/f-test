@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FizzBuzzer.fs" />
     <Compile Include="Exceptions.fs" />
     <Compile Include="ForLoopWithPatternMathing.fs" />
     <Compile Include="Arrays.fs" />
