@@ -10,3 +10,6 @@ let getList numberOfElements =
         let rnd = new Random()
         yield i*rnd.Next()]
 
+let joinLists a b = 
+    a @ b
+
