@@ -18,6 +18,7 @@
     <Compile Include="Functions.fs" />
     <Compile Include="Interface.fs" />
     <Compile Include="Class.fs" />
+    <Compile Include="ActivePatterns.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
